@@ -21,4 +21,4 @@ Please fork this repository and then issue reuqest
 
 ## Copyright
 
-2018 Git Training
+2018 Git Training. Blah blah
